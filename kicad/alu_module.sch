@@ -3,8 +3,8 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 5 5
-Title ""
+Sheet 5 7
+Title "VS80 Program Counter Module"
 Date "2021-10-21"
 Rev "0.1"
 Comp ""

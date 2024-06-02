@@ -3,8 +3,8 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 4 5
-Title ""
+Sheet 4 7
+Title "VS80 Program Counter Module"
 Date "2021-10-21"
 Rev "0.1"
 Comp ""
@@ -623,12 +623,6 @@ Wire Wire Line
 	2050 3300 1900 3300
 Wire Wire Line
 	1900 3300 1900 3350
-Wire Bus Line
-	3750 2000 3750 2700
-Wire Bus Line
-	5400 2000 5400 2700
-Wire Bus Line
-	3750 2000 5400 2000
 Connection ~ 2050 3300
 $Comp
 L power:GND #PWR?
@@ -665,4 +659,10 @@ F 3 "" H 6100 1600 50  0001 C CNN
 	1    6100 1600
 	1    0    0    -1  
 $EndComp
+Wire Bus Line
+	3750 2000 3750 2700
+Wire Bus Line
+	5400 2000 5400 2700
+Wire Bus Line
+	3750 2000 5400 2000
 $EndSCHEMATC

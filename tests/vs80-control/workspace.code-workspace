@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "vs80-control",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

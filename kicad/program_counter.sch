@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr B 17000 11000
 encoding utf-8
-Sheet 2 5
+Sheet 2 7
 Title "VS80 Program Counter Module"
 Date "2021-10-21"
 Rev "0.1"
